@@ -1,3 +1,35 @@
+# Q1. Load and explore the Breast Cancer Wisconsin dataset.
+
+# Q2. Perform data preprocessing:
+#     - Handle missing values (if any)
+#     - Normalize or scale features if required
+
+# Q3. Perform Exploratory Data Analysis (EDA):
+#     - Display summary statistics
+#     - Visualize feature correlations
+
+# Q4. Split the dataset into training and testing sets.
+
+# Q5. Build a machine learning classification model
+#     to predict whether a tumor is Malignant or Benign.
+
+# Q6. Evaluate the model using:
+#     - Accuracy
+#     - Confusion Matrix
+#     - Precision
+#     - Recall
+#     - F1-Score
+
+# Q7. Provide observations and conclusion.
+
+# Deliverables:
+#     - Data Loading
+#     - Data Preprocessing
+#     - Model Building
+#     - Model Evaluation
+#     - Conclusion
+
+
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
